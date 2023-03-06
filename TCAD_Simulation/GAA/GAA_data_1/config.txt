@@ -1,0 +1,5 @@
+vdd 0.5
+vdlin 0.1
+parameter lg_nw,r_nw,t_ox
+lowerbound 10,2,0.5
+upperbound 20,5,1.5
